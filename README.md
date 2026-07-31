@@ -57,7 +57,8 @@ I enjoy working on backend challenges that require solid engineering practices, 
 
 ## Contact
 
-- GitHub: `https://github.com/reiken-dev`
+- Main GitHub: `https://github.com/reiken-dev`
+- Side projects and experiments: `https://github.com/vision-st`
 - Email: `jo.edu.car@outlook.com`
 - LinkedIn: `https://www.linkedin.com/in/jecarmona/`
 
