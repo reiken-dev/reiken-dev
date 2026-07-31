@@ -57,7 +57,7 @@ I am always looking for challenges that help me grow as an engineer and contribu
 
 - GitHub: `https://github.com/reiken-dev`
 - Email: `jo.edu.car@outlook.com`
-- LinkedIn: `Add your public LinkedIn profile URL here`
+- LinkedIn: `https://www.linkedin.com/in/jecarmona/`
 
 ## Personal note
 
