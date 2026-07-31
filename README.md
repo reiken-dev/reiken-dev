@@ -6,15 +6,15 @@
 
 ## About me
 
-I am a Backend Java Developer with more than 10 years of experience building software across multiple industries, including finance, retail, education, commerce, and telecommunications.
+I am a Backend Java Developer with more than 10 years of experience building software for industries such as finance, retail, education, commerce, and telecommunications.
 
-My professional path started with Java and JEE, and over time I specialized deeply in the Spring ecosystem. I have contributed to projects using Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Actuator, and Spring Batch, always focused on building reliable, maintainable, and scalable backend systems.
+My career started with Java and JEE and evolved into a strong specialization in the Spring ecosystem. Over the years, I have worked extensively with Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Actuator, and Spring Batch, always focused on building backend systems that are reliable, maintainable, and production-ready.
 
-A significant part of my experience has been centered on microservices architectures, where I have participated in the design and implementation of distributed systems with a strong emphasis on modularity, observability, and long-term maintainability.
+A significant part of my work has been centered on microservices architecture, where I have contributed to the design and implementation of distributed systems with a strong emphasis on modularity, scalability, observability, and long-term maintainability.
 
-For the last two years, I have also worked as an instructor in a Full-Stack Java programming bootcamp, helping new developers connect theory with real-world practice. Teaching has strengthened not only my technical perspective, but also my communication, mentoring, and leadership skills.
+For the last two years, I have also been teaching in a Full-Stack Java bootcamp, helping new developers bridge the gap between theory and real-world software development. That experience has strengthened both my technical communication and my mentoring skills.
 
-I am always looking for challenges that help me grow as an engineer and contribute to teams building meaningful products with solid backend foundations.
+I enjoy working on backend challenges that require solid engineering practices, clean architecture, and pragmatic decision-making.
 
 ## Core stack
 
@@ -22,13 +22,13 @@ I am always looking for challenges that help me grow as an engineer and contribu
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,kubernetes,postgres,mysql,git,github,linux,idea" />
 </p>
 
-## Focus areas
+## What I work on
 
 - Backend development with Java and Spring
 - REST API design and implementation
-- Microservices architecture
-- Security, persistence, and batch processing
-- Maintainable and scalable distributed systems
+- Microservices and distributed systems
+- Persistence, security, and batch processing
+- Maintainable and scalable application design
 - Technical mentoring and teaching
 
 ## Spring ecosystem
@@ -40,17 +40,19 @@ I am always looking for challenges that help me grow as an engineer and contribu
 - Spring Actuator
 - Spring Batch
 
+## Engineering approach
+
+- Build for maintainability first
+- Prefer simplicity over unnecessary cleverness
+- Design with modularity and clear boundaries
+- Treat observability and operational readiness as part of the product
+- Keep architecture decisions pragmatic and grounded in business needs
+
 ## GitHub stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=reiken-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiken-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=reiken-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Contact
@@ -61,4 +63,4 @@ I am always looking for challenges that help me grow as an engineer and contribu
 
 ## Personal note
 
-> I enjoy building backend systems that are simple to understand, reliable in production, and maintainable over time.
+> I build backend systems that are easy to understand, reliable in production, and maintainable over time.
